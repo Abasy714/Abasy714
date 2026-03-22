@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/mohamed-alabasy1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/mohamedalabasy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="mailto:alabasy@live.com"><img src="https://img.shields.io/badge/alabasy@live.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Cairo,_Egypt-21262d?style=for-the-badge&logo=googlemaps&logoColor=white"/>logoColor=white"/>
+<img src="https://img.shields.io/badge/Cairo,_Egypt-21262d?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
